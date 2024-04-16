@@ -77,7 +77,7 @@ void tree_draw(Node* tree) {
 	tree_divide_by_levels(tree, 0, &plevels); //asdsad
 
 }//asdasd
-//asdsa
+//asdsadadadsasdasdadsadadadasdsadad
 Node* tree_add(Node * tree, Data d) {
 	if (tree == NULL) {
 		Node* p = malloc(sizeof(Node));
